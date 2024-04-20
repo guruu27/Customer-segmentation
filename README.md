@@ -1,8 +1,8 @@
 # Customer-segmentation
 
 
+```
 project_root
-|
 │
 ├── customers.csv
 │
@@ -16,6 +16,7 @@ project_root
 │
 ├── requirements.txt
 │
-├── src
-│   ├── clustering.py
-│   └── visualization.py
+└── src
+    ├── clustering.py
+    └── visualization.py
+```
