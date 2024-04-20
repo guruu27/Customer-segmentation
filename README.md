@@ -1,5 +1,6 @@
 # Customer-segmentation
 
+
 project_root
 │
 ├── customers.csv
