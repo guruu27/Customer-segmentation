@@ -1,0 +1,17 @@
+Given the dataset attached in the folder, analyze how different customers respond to particular categories of products.
+
+a)       Which new customers can the company target for high-cost products?
+
+b)      Which old customers has the company consistently relied on?
+
+c)       For which old customers are targeting efforts, not going to yield much benefit?
+
+d)      Which new customers have the danger of going into territory-c ?
+
+ 
+
+Using ‘spending’ behaviour, classify the customers into atleast 4 categories.
+
+
+What are the characteristics of customers who are the highest buyers of Meat products?
+
