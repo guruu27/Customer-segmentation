@@ -2,6 +2,7 @@
 
 
 project_root
+|
 │
 ├── customers.csv
 │
